@@ -5,6 +5,7 @@
 
 ✅ A **React.js frontend** (already deployed)  
 ✅ A **Spring Boot backend** (must be run locally)  
+✅ A **React.js Admin-frontend** (Admin Pannel)  
 ✅ RESTful API integration for seamless communication  
 ✅ Secure user authentication & role-based access 
 ✅ Secure **Checkout & Payment** integration
