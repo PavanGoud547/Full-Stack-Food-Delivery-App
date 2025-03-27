@@ -1,0 +1,20 @@
+.cart-item img {
+    max-width: 100px;
+    height: auto;
+}
+
+.quantity-input {
+    width: 50px;
+}
+
+.cart-summary {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+}
+
+.cart-item hr {
+    margin-top: 10px;
+    height: 2px;
+    background-color: #e2e2e2;
+    border: none;
+}

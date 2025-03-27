@@ -1,0 +1,48 @@
+.explore-menu-list::-webkit-scrollbar {
+    display: none;
+}
+
+.explore-menu-list {
+    scrollbar-width: none;
+}
+
+.explore-menu-list-item img {
+    cursor: pointer;
+}
+
+.explore-menu-list-item .active {
+    border: 5px solid tomato;
+    padding: 2px;
+}
+
+.explore-menu-list-item p {
+    color: #747474;
+    cursor: pointer;
+}
+
+.scroll-icon {
+    font-size: 24px;
+    cursor: pointer;
+    margin-left: 10px;
+    color: #747474;
+    transition: color 0.2s;
+}
+
+.scroll-icon:hover {
+    color: tomato;
+}
+
+.explore-menu hr {
+    margin: 10px 0px;
+    height: 2px;
+    background-color: #e2e2e2;
+    border: none;
+}
+
+.explore-menu-list-item .active {
+    border: 4px solid tomato;
+}
+
+.explore-menu-list-item .text-active {
+    color: tomato;
+}
