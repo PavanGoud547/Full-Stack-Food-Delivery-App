@@ -8,7 +8,7 @@ const Header = () => {
       <div className="container-fluid py-5">
         <h1 className="display-5 fw-bold">Order your favorite food here</h1>
         <p className="col-md-8 fs-4">
-          Discover the best food and drinks in Bengaluru
+          Discover the best food and drinks at your doorstep
         </p>
         <Link to="/explore" className="btn btn-primary">
           Explore
