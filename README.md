@@ -71,7 +71,7 @@ foodies/ # Deployed Frontend (Vite React) foodies_backend/ # Local Backend (Spri
 
 ## 🌐 Frontend Application (Deployed)  
 
-✅ **Live Demo:** [Foodies App]((https://full-stack-food-delivery-app-blush.vercel.app/)>)  
+✅ **Live Demo:** [[Foodies App](https://full-stack-food-delivery-app-blush.vercel.app/)]((https://full-stack-food-delivery-app-blush.vercel.app/)>)  
 
 - The **frontend is already deployed** and available online.  
 - To test **full functionality**, you must run the **backend locally**.  
